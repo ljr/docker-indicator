@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Docker Indicator
+GenericName=Docker UI
+Comment=Allow start/stop container
+Exec=docker-indicator
+Terminal=false
+Type=Application
+Icon=/usr/share/icons/docker.svg
+Categories=Virtualization;Container;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
